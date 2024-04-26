@@ -1,0 +1,8 @@
+Frontend
+    Refactor code to use context instead of porp drilling
+
+Backend
+    Add database
+    Create User
+    User authentication ie. login
+    Store todos in the user data

@@ -1,0 +1,32 @@
+{
+    "events": [
+        {
+            "title": "123eee",
+            "image": "https://ibiza-spotlight1.b-cdn.net/sites/default/files/styles/auto_1500_width/public/article-images/138756/slideshow-1673439861.jpg",
+            "description": "123123e",
+            "date": "12312-03-12",
+            "id": "124c746b-ef06-4c92-b69e-e66ea8bb1a78"
+        },
+        {
+            "id": "e1",
+            "title": "A dummy event",
+            "date": "2023-02-22",
+            "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+            "description": "Join this amazing event and connect with fellow developers."
+        },
+        {
+            "id": "e2",
+            "title": "A dummy event",
+            "date": "2023-02-22",
+            "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+            "description": "Join this amazing event and connect with fellow developers."
+        },
+        {
+            "id": "e3",
+            "title": "A dummy event",
+            "date": "2023-02-22",
+            "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+            "description": "Join this amazing event and connect with fellow developers."
+        }
+    ]
+}

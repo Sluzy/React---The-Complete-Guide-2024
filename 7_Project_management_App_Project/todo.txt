@@ -1,0 +1,12 @@
+Bugs
+
+    
+Frontend
+    Refactor pop-up til at bruge modal
+    Refactor useStates til at være derived states hvor det giver mening --> computed values
+
+Backend
+    Add database
+    Create User
+    User authentication ie. login
+    Store todos in the user data
